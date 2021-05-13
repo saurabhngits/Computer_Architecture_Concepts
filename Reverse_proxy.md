@@ -1,4 +1,4 @@
-<br /> **Table of Contents** : 
+> <br /> **Table of Contents** : 
 >
 > *[1. What is a reverse proxy?](#reverse_proxy)* <br />
 > *[2. What is a forward proxy?](#forward_proxy)* <br /> 
